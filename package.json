@@ -1,6 +1,6 @@
 {
   "name": "carbon-addons-beta-react",
-  "version": "0.0.0-development",
+  "version": "1.2.0",
   "description":
     "Beta components, to be considered for potential main library components",
   "main": "cjs/index.js",
